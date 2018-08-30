@@ -1,1 +1,1 @@
-# scripts
+Collection of scripts for macOS.
