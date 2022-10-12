@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##################################
-###   Docutil - Default Dock   ###
+###   Dockutil - Default Dock   ###
 ##################################
 
 # https://github.com/kcrawford/dockutil
